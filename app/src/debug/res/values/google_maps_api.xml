@@ -4,10 +4,9 @@
 
     To get one, follow this link, follow the directions and press "Create" at the end:
 
-https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=39:58:3E:C2:2F:DC:6B:C7:09:8A:AB:43:85:49:C7:7A:8A:40:03:58%3Bcom.osahub.rachit.location
+
 
     You can also add your credentials to an existing key, using this line:
-    39:58:3E:C2:2F:DC:6B:C7:09:8A:AB:43:85:49:C7:7A:8A:40:03:58;com.osahub.rachit.location
 
     Once you have your key (it starts with "AIza"), replace the "google_maps_key"
     string in this file.
